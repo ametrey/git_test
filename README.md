@@ -1,0 +1,1 @@
+This is Ametrey’s first git project!
